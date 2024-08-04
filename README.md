@@ -1,2 +1,2 @@
-# oppro.netownbot
-Hier kommen die Eingenen Bots codes ihn
+# OPPRO.NET Neuer Bot
+der Bot ist kein öffentlicher Bot
